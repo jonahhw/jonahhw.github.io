@@ -1,3 +1,3 @@
-# jonahhw.github.io
+# jonahhw's website
 
-I guess I'll try out this Github Pages thing
+This repo is here to make it easier for me to make a website once I decide I want to.
